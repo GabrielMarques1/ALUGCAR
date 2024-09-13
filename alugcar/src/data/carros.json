@@ -1,0 +1,48 @@
+
+
+[
+    {
+        "id": 1,
+        "nome": "Toyota Corrola",
+        "valor": "R$ 93,00",
+        "modelo": "Sedan Medio",
+        "valorTotal": "R$ 93,00",
+        "dias": 1,
+        "transmissao": "Automático",
+        "mala": "460 Litros",
+        "images": "public/images/corolla.png"
+    },
+    {
+        "id": 2,
+        "nome": "GM Onix",
+        "valor": "R$ 77,00",
+        "modelo": "Hatch Medio",
+        "valorTotal": "R$ 77,00",
+        "dias": 1,
+        "transmissao": "Manual",
+        "mala": "320 Litros",
+        "images": "public/images/onix.png"
+    },
+    {
+        "id": 3,
+        "nome": "Fiat Mobi",
+        "valor": "R$ 56,00",
+        "modelo": "Hatch Compacto",
+        "valorTotal": "R$ 56,00",
+        "dias": 1,
+        "transmissao": "Manual",
+        "mala": "120 Litros",
+        "images": "public/images/mobi.png"
+    },
+    {
+        "id": 4,
+        "nome": "VW Nivus",
+        "valor": "R$ 122,00",
+        "modelo": "SUV",
+        "valorTotal": "R$ 122,00",
+        "dias": 1,
+        "transmissao": "Automatico",
+        "mala": "460 Litros",
+        "images": "public/images/nivus.png"
+    }
+]
